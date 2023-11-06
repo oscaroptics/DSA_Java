@@ -1,0 +1,1 @@
+jab call by value pass krte h to main function se value copy hoke child function me jaata h fir waha pe action perform hota h
